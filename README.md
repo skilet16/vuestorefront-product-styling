@@ -1,1 +1,1 @@
-# weather-widget
+# Weather Widget vuestorefront
