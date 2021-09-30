@@ -1,1 +1,1 @@
-# vuestorefront-product-styling
+# weather-widget
